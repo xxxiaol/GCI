@@ -56,9 +56,15 @@ python run_nn.py --model CausalChain --charge DATASET_NAME --ratio TRAINING_DATA
 ```
 
 ## Citation
-Please cite our paper if this repository inspired your work.
+Please cite our paper if this repository inspires your work.
 ```
-to be added
+@inproceedings{liu2021everything,
+  title={Everything Has a Cause: Leveraging Causal Inference in Legal Text Analysis},
+  author={Liu, Xiao and Yin, Da and Feng, Yansong and Wu, Yuting and Zhao, Dongyan},
+  booktitle={Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
+  pages={1928--1941},
+  year={2021}
+}
 ```
 
 ## Contact
