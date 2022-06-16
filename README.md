@@ -22,7 +22,7 @@ Source code and data for *Everything Has a Cause: Leveraging Causal Inference in
 The dataset used is provided in `data/data.zip`. 
 Before running the models, some preprocessing is needed:
  - Unzip `data/data.zip` into `data/data.json`.
- - Download word embedding from https://ai.tencent.com/ailab/nlp/embedding.html  and extract them into `data/`.
+ - Download word embedding from https://ai.tencent.com/ailab/nlp/en/data/tencent-ailab-embedding-zh-d200-v0.2.0.tar.gz  and extract them into `data/`.
  - Run `preprocess.py` to prepare data for GCI.
  
 (Optional) If you want to start from the raw data, please run:
